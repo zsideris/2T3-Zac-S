@@ -3,3 +3,5 @@
 We are learning how to push and pull to a remote server
 
 We are learning how to deal with conflicts
+
+is creating a merge conflict
